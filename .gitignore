@@ -1,0 +1,59 @@
+# Compilierte Java-Klassen
+*.class
+
+# Log-Dateien
+*.log
+
+# BlueJ- und DrJava-Dateien
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Verzeichnis für generierte Dateien (z. B. durch Maven, Gradle, Eclipse)
+target/
+build/
+
+# Maven spezifische Dateien
+.mvn/
+!.mvn/wrapper/maven-wrapper.jar
+**/target/
+
+# Gradle spezifische Dateien
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Eclipse-Projektdateien
+.project
+.classpath
+.settings/
+.loadpath
+
+# IDEA-Projektdateien
+.idea/
+*.iml
+*.iws
+
+# VSCode-Projektdateien
+.vscode/
+
+# Windows spezifische Dateien
+Thumbs.db
+ehthumbs.db
+
+# macOS spezifische Dateien
+.DS_Store
+
+# temporäre Dateien
+*.tmp
+*.bak
+*.swp
+*~
+
+# Java-Umgebungskonfigurationsdateien
+*.env
+*.jenv
+
+# IntelliJ IDEA Library-Folder (für Projekte mit mehreren Modulen)
+out/
