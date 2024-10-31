@@ -24,12 +24,11 @@ To calculate the GCD of two numbers:
 
 Example:
 
-##### GCD Operations
 
 MyMaths maths = new MyMaths();
 int result = maths.gcd(48, 18); // Returns 6
 
-##### Stack Operations
+#### Stack Operations
 
 To use the stack:
 * Create an instance of Stack with a specified size.
