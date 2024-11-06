@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 package qm.ex2;
 
 import org.junit.Assert;
